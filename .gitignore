@@ -1,0 +1,7 @@
+/.venv/
+data/
+__pycache__/
+/tempCodeRunnerFile.py
+package-lock.json
+package.json
+/results
